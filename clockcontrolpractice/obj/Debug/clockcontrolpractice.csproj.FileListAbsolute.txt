@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\clockcontrolpractice\bin\Debug\clockcontrolpractice.dll
+C:\Users\HP\source\repos\clockcontrolpractice\bin\Debug\clockcontrolpractice.pdb
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.timer.resources
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.dll
+C:\Users\HP\source\repos\clockcontrolpractice\obj\Debug\clockcontrolpractice.pdb
+D:\300plus\clockcontrolpractice\bin\Debug\clockcontrolpractice.dll
+D:\300plus\clockcontrolpractice\bin\Debug\clockcontrolpractice.pdb
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.AssemblyReference.cache
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.timer.resources
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.GenerateResource.cache
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.csproj.CoreCompileInputs.cache
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.dll
+D:\300plus\clockcontrolpractice\obj\Debug\clockcontrolpractice.pdb
